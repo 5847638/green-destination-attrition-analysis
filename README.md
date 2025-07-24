@@ -6,13 +6,10 @@
 
 📋 Project Description: 
      The Green Destination Attrition Analysis project was designed to investigate patterns of employee turnover at Green Destination Travel Agency. Conducted using Tableau and Excel, the analysis aimed to support the company's HR team in making data-driven decisions about workforce retention. By analyzing employee survey data, the project uncovered key attrition metrics and patterns across various departments and roles.
-     
+
 The final deliverables included interactive dashboards that allowed stakeholders to explore:
-
 1.Attrition by job role, gender, department, and education
-
 2.KPIs like attrition rate, employee count, average age
-
 3.Insights on performance rating, income, marital status, and job satisfaction
 
 I learned the following things in this project
@@ -43,8 +40,9 @@ Breakdown by marital status, department-wise performance by gender
 Years since promotion, job satisfaction by gender, and education-based patterns
 
 🔗 Links
-
-📊 Dashboard Screenshots:[Included in Portfolio or GitHub Repo](https://drive.google.com/file/d/1PLAMHcR7a2uK-_tDiQyZpdBHDMErNtbH/view?usp=drive_link)
+📊Dashboard Screenshots:[Included in Portfolio or GitHub Repo](https://drive.google.com/file/d/1PLAMHcR7a2uK-_tDiQyZpdBHDMErNtbH/view?usp=drive_link)
+💻 GitHub Repository: https://github.com/5847638/green-destination-attrition-analysis
+🧩 LinkedIn Post (optional): https://www.linkedin.com/in/k-rajasekhar-74b9531ba/
 
 
 
