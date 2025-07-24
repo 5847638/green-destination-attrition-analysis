@@ -51,7 +51,7 @@ Years since promotion, job satisfaction by gender, and education-based patterns
 
 🔗 Links
 
-📊Dashboard Screenshots:[Included in Portfolio or GitHub Repo](https://drive.google.com/file/d/1PLAMHcR7a2uK-_tDiQyZpdBHDMErNtbH/view?usp=drive_link)
+📊 Dashboard Screenshots: [Download Unified Mentor Dashboard PDF](https://drive.google.com/file/d/1PLAMHcR7a2uK-_tDiQyZpdBHDMErNtbH/view?usp=drive_link)
 
 💻 GitHub Repository: https://github.com/5847638/green-destination-attrition-analysis
 
