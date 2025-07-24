@@ -40,8 +40,11 @@ Breakdown by marital status, department-wise performance by gender
 Years since promotion, job satisfaction by gender, and education-based patterns
 
 🔗 Links
+
 📊Dashboard Screenshots:[Included in Portfolio or GitHub Repo](https://drive.google.com/file/d/1PLAMHcR7a2uK-_tDiQyZpdBHDMErNtbH/view?usp=drive_link)
+
 💻 GitHub Repository: https://github.com/5847638/green-destination-attrition-analysis
+
 🧩 LinkedIn Post (optional): https://www.linkedin.com/in/k-rajasekhar-74b9531ba/
 
 
